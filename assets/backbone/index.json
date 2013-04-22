@@ -1,0 +1,9 @@
+{
+    "1.0.0": {
+        "files": ["backbone-min.js", "json2.js"],
+        "deps": {
+            "underscore": {"version": "1.4.*"},
+            "jquery": {"version": "1.*"}
+        }
+    }
+}
