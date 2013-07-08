@@ -3,6 +3,6 @@
 		"files": ["angular.min.js", "angular-cookies.min.js", "angular-resource.min.js", "angular-sanitize.min.js"]
 	},
         "1.0.7.full": {
-		"files": ["angular.js"]
+		"files": ["angular.js", "angular-cookies.js", "angular-resource.js", "angular-sanitize.js"]
 	}
 }
