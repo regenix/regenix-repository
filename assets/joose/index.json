@@ -1,0 +1,12 @@
+{
+    "2.0": {
+        "files": ["Joose.js"]
+    },
+    "2.1": {
+        "files": ["joose.mini.js"]
+    },
+    "2.2.commonjs": {
+ 	"files": ["joose.commonjs.js"]
+    },
+ 
+}
