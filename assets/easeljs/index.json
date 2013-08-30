@@ -1,0 +1,14 @@
+{
+    "0.4.2": {
+        "files": ["easeljs-0.4.2.min.js"]
+    },
+    "0.5.0": {
+        "files": ["easeljs-0.5.0.min.js"]
+    }, 
+    "0.6.0": {
+        "files": ["easeljs-0.6.0.min.js"]
+    },
+    "0.6.1": {
+        "files": ["easeljs-0.6.1.min.js"]
+    }
+}

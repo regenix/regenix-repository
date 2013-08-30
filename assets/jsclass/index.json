@@ -1,8 +1,0 @@
-{
-    "4.0.2": {
-        "files": ["loader-browser.js"]
-    },
-    "src.4.0.2": {
-        "files": ["loader-browser.js"]
-    }
-}

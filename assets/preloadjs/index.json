@@ -1,0 +1,14 @@
+{
+    "0.1.0": {
+        "files": ["preloadjs-0.1.0.min.js"]
+    },
+    "0.2.0": {
+        "files": ["preloadjs-0.2.0.min.js"]
+    }, 
+    "0.3.0": {
+        "files": ["preloadjs-0.3.0.min.js"]
+    },
+    "0.3.1": {
+        "files": ["preloadjs-0.3.1.min.js"]
+    }
+}

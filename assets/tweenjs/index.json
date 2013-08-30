@@ -1,0 +1,14 @@
+{
+    "0.2.0": {
+        "files": ["tweenjs-0.2.0.min.js"]
+    },
+    "0.3.0": {
+        "files": ["tweenjs-0.3.0.min.js"]
+    }, 
+    "0.4.0": {
+        "files": ["tweenjs-0.4.0.min.js"]
+    },
+    "0.4.1": {
+        "files": ["tweenjs-0.4.1.min.js"]
+    }
+}
