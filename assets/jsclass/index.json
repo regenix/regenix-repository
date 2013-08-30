@@ -1,0 +1,8 @@
+{
+    "4.0.2": {
+        "files": ["loader-browser.js", "all.extract.zip"]
+    },
+    "src.4.0.2": {
+        "files": ["loader-browser.js", "all.extract.zip"]
+    }
+}
