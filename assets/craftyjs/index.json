@@ -1,4 +1,10 @@
 {
+    "0.5.2": {
+        "files": ["crafty.js"]
+    },
+    "0.5.3": {
+        "files": ["crafty.js"]
+    },
     "0.5.4": {
         "files": ["crafty.js"]
     }
