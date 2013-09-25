@@ -21,7 +21,7 @@
 			"fonts/glyphicons-halflings-regular.woff"
 		],
 		"deps": {
-            "jquery": {"version": "1.*"}
+            "jquery": {"version": "2.*"}
         }
 	}
 }
