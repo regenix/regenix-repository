@@ -2,7 +2,7 @@
 	"2.3.1": {
 		"files": [
 			"js/bootstrap.min.js",
-			"css/bootstrap.min.css"
+			"css/bootstrap.min.css",
 			"img/glyphicons-halflings.png",
 			"img/glyphicons-halflings-white.png"
 		]
