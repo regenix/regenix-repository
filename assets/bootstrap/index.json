@@ -13,8 +13,8 @@
 			"js/bootstrap.min.js",
 			"css/bootstrap.min.css",
 			"fonts/glyphicons-halflings-regular.eot",
-			"fonts/glyphicons-halflings-regular.svg"
-			"fonts/glyphicons-halflings-regular.ttf"
+			"fonts/glyphicons-halflings-regular.svg",
+			"fonts/glyphicons-halflings-regular.ttf",
 			"fonts/glyphicons-halflings-regular.woff"
 		]
 	}
