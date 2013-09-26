@@ -1,0 +1,8 @@
+{
+	"3.44.0": {
+		"files": ["jquery.form-3.44.0.min.js"],
+		"deps": {
+            "jquery": {"version": "(1\\.[5-9]+|2.*)"}
+        }
+	}
+}
